@@ -1,0 +1,52 @@
+body{
+	background-color: #999;
+	color: white;
+	margin: 0;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #313131;
+  border-bottom: 1px solid Black;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  margin-bottom: 50px;
+  
+
+}
+.navbar a {
+  float: left;
+  font-size: 4vh;
+  height: 5vh;
+  color: #cccaca;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.focim-elso {
+	font-family: "Arial", Serif;
+	font-size: 6vh;
+	text-align: center;
+	padding-top: 50px;
+}
+.alcim {
+	margin: 20px;
+	color: #1a0000;
+	font-size: 4vh;
+	font-family: "Arial", Serif;
+}
+.bekezdes {
+	margin: 20px;
+	color: #1a0000;
+	font-size: 3vh;
+	font-family: "Arial", Serif;
+}
+.formok {
+	display: inline;
+	
+}
+input {
+	display: inline;
+}
